@@ -45,7 +45,7 @@ private void setupDefaultOperations() {
 		new Square();
 		new Power();
 		new Divide(); 
-	
+}
 
 	// fixed: textProvider value may be null or empty String
 	private String getTextOrZero () {

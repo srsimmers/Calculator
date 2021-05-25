@@ -5,6 +5,8 @@ import org.eclipse.example.calc.BinaryOperation;
 /**
  * Binary plus operation
  */
+
+
 public class Power extends AbstractOperation implements BinaryOperation {
 
 	@Override
