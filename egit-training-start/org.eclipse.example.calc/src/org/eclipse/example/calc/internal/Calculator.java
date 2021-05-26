@@ -35,8 +35,7 @@ public class Calculator {
 
 	public Calculator(TextProvider textProvider) {
 		this.textProvider = textProvider;
-		setupDefaultOperations();
-	}
+		setupDefaultOperations(); }
 
 private void setupDefaultOperations() {
 		new Equals();
